@@ -1,4 +1,4 @@
-# Search Records - Module 2 Exercise 1
+# Search Records - Module 2, Exercise 1
 
 In Epigraphic Database Heidelberg, I searched "artifex" and "agricola", meaning "author/artist" and "farmer". 
 [Here](https://edh-www.adw.uni-heidelberg.de/inschrift/suche?hd_nr=&land=&fo_antik=&fo_modern_fundstelle=&literatur=&dat_jahr_a=&dat_jahr_e=&hist_periode=&atext1=artifex&bool=AND&atext2=&sort=hd_nr&anzahl=20) is the link to my search results for artifex. 
