@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Sheffield Hallam
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>54</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>such fools as consent to be confined to one man: their engagements, therefore, are merely temporary, and are not considered as at all binding. <persName key="Cooper, Thomas" from"?" to="?" role="Reverend" ref="https://www.ucl.ac.uk/lbs/person/view/14956">Mr. Cooper</persName> never heard of any attempt, by agreement between masters, to bring together on the same plantation a man and a wife who lived on different plantations. Nor could it in general be of <interp key="Many slaveowners actually encouraged marriage ties even though they weren't legally binding because it discouraged slaves from running away" n="Williams, Heather Andrea. 'How Slavery Affected African American Families.' Freedom's Story, TeacherServe. National Humanities Centre. Accessed May 25, 2019." cert="high" ref="http://nationalhumanitiescenter.org/tserve/freedom/1609-1865/essays/aafamilies.htm">any very great use to do so</interp>, while there is no such thing among them as a marriage-tie.</p>
+<p>It is, doubtless, in part owing to this cause, and to the universal profligacy of manners prevailing among Blacks and Whites, that the Negroes, in <placeName key="Jamaica" ref="https://en.wikipedia.org/wiki/Jamaica">Jamaica</placeName>, are a <interp key="Though the slaves on the Georgia estate he mentions below may have had a low reproductive rate, this is a sweeping statement and I don't have evidence that all slaves in Jamaica produced so little offspring" n="Williams, Heather Andrea. 'How Slavery Affected African American Families.' Freedom's Story, TeacherServe. National Humanities Centre. Accessed May 25, 2019." cert="medium" ref="http://nationalhumanitiescenter.org/tserve/freedom/1609-1865/essays/aafamilies.htm">very unprolific race</interp>: not that they are so naturally, - but they are made so by the brutalizing and demoralizing system of government under which they live, which is notoriously most unfriendly to the production of life, and, in several ways, tends directly to its destruction. Among other things, it causes the women to be <interp key="The reason for miscarriages and other reproductive complications was poor treatment and unhygienic conditions, not the slave woman's own carelessness" n="Barbara Bush-Slimani. 'Hard Labour: Women, Childbirth, and Resistance in British Caribbean Slave Societies.' History Workshop, no. 36(1993): 83-99." cert="high" ref="http://www.jstor.org/stable/4289253">extremely careless of themselves when breeding</interp>, so that miscarriages are very common; and it produces also the most <interp key="Slaves loved their children just as much as anyone else" n="Williams, Heather Andrea. 'How Slavery Affected African American Families.' Freedom's Story, TeacherServe. National Humanities Centre. Accessed May 25, 2019." cert="high" ref="http://nationalhumanitiescenter.org/tserve/freedom/1609-1865/essays/aafamilies.htm">miserable neglect of their children</interp>.</p>
+<p>The Negroes on <placeName key="Hanover, Jamaica" ref="https://tools.wmflabs.org/geohack/geohack.php?params=18_25_1_N_78_7_58_W">Georgia estate</placeName> do not keep up their numbers. There were in one year only <interp key="According to this author there were only 7 births in a year" n="this is the only citation" cert="low" ref="http://www.recoveredhistories.org/pamphlet1.php?catid=66">seven births</interp>, though the whole population is about four hundred. <persName key="Cooper, Thomas" from"?" to="?" role="Reverend" ref="https://www.ucl.ac.uk/lbs/person/view/14956">Mr. Cooper</persName> attributes this non-increase to their morally degraded condition; to prostitution and its various consequences, including disease; to hard work, and to severity of punishment. Indeed, <persName key="Cooper, Thomas" from"?" to="?" role="Reverend" ref="https://www.ucl.ac.uk/lbs/person/view/14956">he</persName> considers that having no other motive to exertion in their present state, they would not work at all, were it not that neglect would be visited with severe punishment.</p>
+<p>In <placeName key="Jamaica" ref="https://en.wikipedia.org/wiki/Jamaica">Jamaica</placeName> the slaves are <interp key="Education was discouraged because it threatened the institution of slavery" n="Wikipedia contributors, 'Education during the Slave Period,' Wikipedia, The Free Encyclopedia. Accessed May 25, 2019." cert="high" ref="https://en.wikipedia.org/wiki/Education_during_the_Slave_Period">scarcely ever taught to read</interp>.</p>
+<p>In every parish there is a rector, who, generally speaking, preaches every Sunday morning at the parish church; and a curate, who has a chapel. The service, however, takes place at the very time which may be</p>  
+            </body>
+        </text>
+    </TEI>
+</teiCorpus>
