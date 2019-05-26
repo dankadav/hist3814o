@@ -8,13 +8,25 @@
     8  cd war-diary
     9  pwd
    10  cd ~
+   
    11  mkdir war-diary
+   
    12  cd war-diary
+   
    13  pwd
+   
    14  nano urls.py
+   
    15  python urls.py
+   
    16  ls
+   
    17  nano urls.txt
+   
    18  wget -i urls.txt -r --no-parent -nd -w 2 --limit-rate=100k
+   
    19  ls
+   
    20  history > wardiariesdownload.md
+
+Commands 1-6 are from the previous part of exercise 2 (and were recorded in wgetdownload.md).
