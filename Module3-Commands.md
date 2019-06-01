@@ -37,18 +37,16 @@
    
    24  nano index.txt
    
-   25  history > 2019-06-01commands.md
+   25  sed -r -i.bak 's/[()]/,/g' index.txt
    
-   26  sed -r -i.bak 's/[()]/,/g' index.txt
+   26  nano index.txt
    
-   27  nano index.txt
+   27  sed -r -i.bak 's/,,/,/g' index.txt
    
-   28  sed -r -i.bak 's/,,/,/g' index.txt
+   28  nano index.txt
    
-   29  nano index.txt
+   29  grep -r ".+,.+,.+," index.txt
    
-   30  history > 2019-06-01figuredout.md
+   30  cp index.txt cleaned-correspondence.csv
    
-   31  grep -r ".+,.+,.+," index.txt
-   
-   32  cp index.txt cleaned-correspondence.csv
+   31  history > Module3-Commands.md
