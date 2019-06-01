@@ -28,3 +28,5 @@
    28  sed -r -i.bak 's/,,/,/g' index.txt
    29  nano index.txt
    30  history > 2019-06-01figuredout.md
+   31  grep -r ".+,.+,.+," index.txt
+   32  cp index.txt cleaned-correspondence.csv
