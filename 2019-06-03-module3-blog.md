@@ -14,7 +14,9 @@ In step 6, when I typed ```grep -r ".+,.+,.+," index.txt``` nothing happened in 
 
 ### Exercise 2
 
-I had trouble setting up Java JRE which is necessary to have for OpenRefine to be able to run. I went on the official Java website and downloaded the program. The set up didn't look like the set up instructions Java listed, so I wasn't sure if it had even worked properly. I opened Safari and used the test Java provides to see if it is installed on your machine, and 
+I had trouble setting up Java JRE. I went on Java's website and downloaded the program. I then opened Safari, as per Java's instructions, and used Java's verifier to see if it successfully installed. I got a message that the plug-in wasn't supported, and was also told I need to click Run, but there was nowhere to do this. I opened a page that provided more information about using Java with different browsers, and it told me that all of the browsers I use - Firefox, Chrome, and Safari - could not support it. I posted a question in Slack to see if anyone knew what I should do, and Dr. Graham helped me out. He had me try a few direct links to see if they might help, and also use my terminal to see what information it might provide. When these things still didn't make Java work, he told me to just leave it for now and download OpenRefine. Apple tried to block me from opening it because it was from an unidentified developer, but Dr. Graham told me to hold down the control key when I opened it to bypass this, and it worked.
+
+
 
 ## Annotations
 
@@ -29,6 +31,10 @@ In this [annotation](https://hyp.is/bUs6KIM_Eem6S7OYAyAd4A/dh.obdurodon.org/what
 ### Annotation 2
 
 In this second [annotation](https://hyp.is/xsrGZoL7EemPtO8yBOd78A/dh.obdurodon.org/what-is-xml.xhtml), I learned more about what XSL is. I had been unsure of why we needed the XSL document in Module 2 to make the XML document work. The sentence I annotated here is part of a paragraph discussing XML validation. When I read this, I wondered if our XSL document had been used to validate the XML document we produced. I then learned the answer to this question when I switched to the Exercises page of Module 3. In the first paragraph, a brief explanation is given: that XSL adds styles to XML. After learning this, I thought back to the exercises in Module 2 and about how my file had changed when I dragged it into Firefox, and that process makes a lot more sense to me now. I also learned that XSL has nothing to do with validating like I originally thought.
+
+### Annotation 3
+
+In this final [annotation](https://hyp.is/J3lUAoL6EemQB_dn2HtgvQ/dh.obdurodon.org/what-is-xml.xhtml), I expressed confusion about an example of poorly-formed XML that Birnbaum corrected. He explained that it was incorrect because there wasn't one root in which the tags dairy and snacks sat. But I had thought that each tag had to be indented and nested within another, and that there could not be more than one tag at an indent. I Googled this question and found this [website](https://www.w3resource.com/xml/proper-nesting-of-elements.php), and learned that more than one tag can sit within another tag. So, I understand XML just a bit better now. 
 
 ## Reflection Questions
 
