@@ -30,3 +30,9 @@ Java JRE doesn't want to work with a Mac for some reason - it is not supported b
 ```java -version``` can give more info if typed into terminal, terminal is the utilities folder in applications.
 
 ctrl can be held down to bypass apple's nanny features
+
+comma separated values is what CSV stands for, and needs to be checked off in OpenRefine. 
+
+Everything else went well
+
+## Capstone Exercise
