@@ -1,5 +1,7 @@
 # Module 3 Blog
 
+Though I had some trouble with downloading Java JRE and OpenRefine, this module went smoothly for me. I was able to complete all of the exercises this time, though I opted not to do the optional Going Further exercises because I was running out of time.
+
 ## Exercises
 
 ### Exercise 1
@@ -15,6 +17,12 @@ In step 6, when I typed ```grep -r ".+,.+,.+," index.txt``` nothing happened in 
 ### Exercise 2
 
 I had trouble setting up Java JRE. I went on Java's website and downloaded the program. I then opened Safari, as per Java's instructions, and used Java's verifier to see if it successfully installed. I got a message that the plug-in wasn't supported, and was also told I need to click Run, but there was nowhere to do this. I opened a page that provided more information about using Java with different browsers, and it told me that all of the browsers I use - Firefox, Chrome, and Safari - could not support it. I posted a question in Slack to see if anyone knew what I should do, and Dr. Graham helped me out. He had me try a few direct links to see if they might help, and also use my terminal to see what information it might provide. When these things still didn't make Java work, he told me to just leave it for now and download OpenRefine. Apple tried to block me from opening it because it was from an unidentified developer, but Dr. Graham told me to hold down the control key when I opened it to bypass this, and it worked.
+
+When I uploaded my .csv file to OpenRefine, my data wasn't separated into columns like it's supposed to be. However, when I open the .csv file in Numbers on my computer, it's in a table, so I was confused. I sent a question into Slack to see if this had happened to anyone else. Jeffrey told me to make sure I checked off comma separated values, so I made a new project, checked this off, and it worked. Cleaning up the sender and recipient lists went well. It took some Googling to figure out which spellings were right for some of them. I ended up with more senders and recipients left than we were supposed to have. I had 165 senders and 180 recipients, but the workbook said we should have roughly 150 senders and 160 recipients. I'm not sure why this is different but I couldn't see anymore names I could merge, so I moved on. 
+
+When I loaded my edited .csv file into Palladio, I was surprised by how connected most of the recipients and senders were in the graph. I was also surprised to find that there were some senders and recipients who had interacted only with each other, and were offset from the crowded part of the graph.
+
+### Capstone Exercise
 
 
 
