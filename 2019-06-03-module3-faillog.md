@@ -36,3 +36,5 @@ comma separated values is what CSV stands for, and needs to be checked off in Op
 Everything else went well
 
 ## Capstone Exercise
+
+So far just downloading and giving descriptive file names so I can keep track of them, since there's so many
