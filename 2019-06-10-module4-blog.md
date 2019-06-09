@@ -4,11 +4,13 @@ In feedback provided last week by Ruth, I learned that it is not mandatory to fo
 
 ## Exercises
 
-At the time of starting the exercises, I haven't yet decided what I want to do with the 14th Canadian General Hospital War Diaries for the Capstone Exercise. Because of this, I decided to do my 2 exercises with practice material instead, so I can see what might interest me, or what might be too difficult for me to try to do for the assignment.
+At the time of starting the exercises, I haven't yet decided what I want to do with the 14th Canadian General Hospital War Diaries for the capstone exercise. Because of this, I decided to do my 2 exercises with practice material instead, so I can see what might interest me, or what might be too difficult for me to try to do for the assignment.
 
 ### Exercise 2
 
-I chose to try this topic modelling exercise because I had a really limited understanding of what topic modelling is, and I wanted to explore it, and see if it might be useful to me. 
+I chose to try this topic modelling exercise because I had a really limited understanding of what topic modelling is, and I wanted to explore it and see if it might be useful for the capstone exercise. After seeing the final product, I think it could be very helpful for getting started, so I will be using it. 
+
+After downloading the Topic Modelling Tool, I didn't read the [Quickstart Guide](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html) first, so I couldn't figure out how to upload the Colonial Newspaper Database document to the program. This confusion was only momentary though because I went looking for instructions, and learned that a folder must be uploaded, not a single file. I did this and received the correct output, according to the Guide. However, I had no idea what any of the output documents were trying to tell me. I went back to the Guide once more, and found a [link](http://miriamposner.com/blog/very-basic-strategies-for-interpreting-results-from-the-topic-modeling-tool/) to an explanation of how to make sense of the resulting documents. Miriam Posner's blog post helped me a lot because the main source of confusion was around how to figure out what topic those sets of words actually fall under. Posner explained that the user figures this out themselves, not the computer. Also, it's easier to figure this out when you're more familiar with the data, which explains why, even after learning this, I had a lot of trouble identifying the patterns. In addition, she mentioned that the user can arrange their data in different ways, such as individual documents for each week versus each year, to produce varied results that can reveal new patterns. I am glad I read her blog post because I think this tip will be useful for my analysis of the war diaries. Overall, this exercise went very well and was a good pick.
 
 ## Reading Reflection
 
